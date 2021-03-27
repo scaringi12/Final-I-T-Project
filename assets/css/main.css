@@ -1660,8 +1660,17 @@ input, select, textarea {
 .image-profile
 {
 	border-radius: 8px;
-	width: 200px;
-	height: 400px;
+	width: 100%;
+	height: auto;
 	margin: 50px;
 	padding: 100px;
+}
+
+.image-learning-style
+{
+	border-radius: 50%;
+	width:25%;
+	height:auto;
+
+
 }
