@@ -1656,3 +1656,12 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.image-profile
+{
+	border-radius: 8px;
+	width: 200px;
+	height: 400px;
+	margin: 50px;
+	padding: 100px;
+}
