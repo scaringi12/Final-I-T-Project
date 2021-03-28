@@ -1683,3 +1683,12 @@ input, select, textarea {
   margin-left: auto;
   margin-right: auto;
 }
+.image-dipper{
+	border-radius: 10px;
+	border-color: white;
+	max-width: 100%;
+  height: auto;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
